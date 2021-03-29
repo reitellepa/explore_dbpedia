@@ -1,0 +1,13 @@
+name: py37_hn_sparql
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - pandas
+  - sparqlwrapper
+  - python=3.7
+  - rdflib
+  - ipykernel
+
+    
